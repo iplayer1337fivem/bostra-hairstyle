@@ -1,6 +1,6 @@
 Config = {
     QB = true, --true for QB Notify and item use, false for ESX item use.  idk esx, I looked at some code and threw it in PRs welcome. 
-    Notify = "QB", -- "QB" for QBCore Notify, "OX" for ox_lib
+    Notify = "OX", -- "QB" for QBCore Notify, "OX" for ox_lib
     Items = true, --Use items to style hair, if false, use /hathair POSITION
     ItemName = "hairspray", 
     Command = true,
